@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CoACD.cpp.obj": [
+			"CoACD.gen.cpp.obj",
+			"CoACD.init.gen.cpp.obj",
+			"CoACD.cpp.obj"
+		]
+	}
+}

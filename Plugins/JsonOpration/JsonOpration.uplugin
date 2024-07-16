@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2020.12.15",
+	"FriendlyName": "Maple_Json_Http",
+	"Description": "Json的创建和解析,多方式的Http的请求",
+	"Category": "Maple",
+	"CreatedBy": "Maple",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "JsonOpration",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win64", "Linux" ]
+		}
+	]
+}
