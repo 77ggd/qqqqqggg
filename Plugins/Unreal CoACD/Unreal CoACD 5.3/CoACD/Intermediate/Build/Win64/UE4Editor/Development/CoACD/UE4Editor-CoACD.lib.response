@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CoACD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\botre\Desktop\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\botre\Desktop\MyProject\Plugins\CoACD\Intermediate\Build\Win64\UE4Editor\Development\CoACD\CoACD.cpp.obj"
+"C:\Users\botre\Desktop\MyProject\Plugins\CoACD\Intermediate\Build\Win64\UE4Editor\Development\CoACD\CoACD.gen.cpp.obj"
+"C:\Users\botre\Desktop\MyProject\Plugins\CoACD\Intermediate\Build\Win64\UE4Editor\Development\CoACD\CoACD.init.gen.cpp.obj"
+"C:\Users\botre\Desktop\MyProject\Plugins\CoACD\Intermediate\Build\Win64\UE4Editor\Development\CoACD\Default.rc2.res"
+/OUT:"C:\Users\botre\Desktop\MyProject\Plugins\CoACD\Intermediate\Build\Win64\UE4Editor\Development\CoACD\UE4Editor-CoACD.lib"
