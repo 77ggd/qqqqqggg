@@ -1,0 +1,21 @@
+C:\Users\botre\Desktop\MyProject\Plugins\CoACD\Intermediate\Build\Win64\UE4Editor\Development\CoACD\Definitions.CoACD.h
+C:\Users\botre\Desktop\MyProject\Plugins\CoACD\Source\CoACD\CoACD.h
+C:\Users\botre\Desktop\MyProject\Plugins\CoACD\Intermediate\Build\Win64\UE4Editor\Inc\CoACD\CoACD.Generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\MeshUtilities\Public\MeshUtilities.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\MeshBuild.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\MeshMergeUtilities\Public\IMeshMergeUtilities.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\MeshReductionInterface\Public\IMeshReductionInterfaces.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshDescription.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshElementArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshAttributeArray.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MeshDescription\Public\MeshElementRemappings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription\MeshDescription.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\RawMesh\Public\RawMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
