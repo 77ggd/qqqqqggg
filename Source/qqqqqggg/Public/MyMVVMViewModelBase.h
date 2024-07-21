@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "MVVMViewModelBase.h"
 #include <iostream>
-#include <curl/curl.h>
+//#include <curl/curl.h>
 #include "MyMVVMViewModelBase.generated.h"
 
 /**
